@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Jenny 👩‍💻
 ### Welcome to my GitHub profile! 🌟
 
-- 🔭 I’m currently working on various projects at RedRoverschool, some exciting volunteer projects, where I'm sharpening my automation testing and coding skills using Selenium and Playwright in Python
+- 🔭 I’m currently working on various volunteer projects and pet-projects , where I'm sharpening my automation testing skills using Selenium and Playwright in Python
 
 - 🌱 Tools for mobile automation testing are my current focus in terms of learning. If you're an experienced mobile automation tester or developer, I'm also actively seeking a mentor to guide me on this path. I believe that learning from experienced professionals can greatly accelerate my growth in the field. If you're interested in mentoring, please reach out! 🙏
 
