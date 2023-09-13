@@ -7,9 +7,9 @@
 
 - ⚡ Fun fact: I'm based in beautiful Alaska, the state's wilderness is a paradise for birdwatchers like me. Did you know that coding and birdwatching have something in common? Both require patience, sharp observation skills, and the ability to adapt to different envs 🙃. 
 
-- 🤔 If you have any tips, tricks I'm all ears! Just like a curious bird, I'm eager to learn and grow. 🦅
+- 🤔 If you have any tips I'm all ears! Just like a curious bird, I'm eager to learn and grow. 🦅
 
-- 📫 You can easily reach me at kadzovaea@gmail.com
+- 📫 You can easily reach me at jennykdzova@gmail.com
 
 <!--
 **kadzova/kadzova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
